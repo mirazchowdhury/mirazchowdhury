@@ -8,6 +8,10 @@ on:
     branches:
     - main              # Or 'master' if that is your default branch
 
+# THIS IS THE FIX: Explicitly grant write permissions
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -25,7 +29,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        # Updated to v4 to clear the Node.js 20 warning
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
