@@ -11,7 +11,7 @@
 <div align="center">
  🔭 I’m currently working on **LLM-powered AI agents and PDF data pipelines**<br/>
  🌱 I’m learning **LangChain, Groq & RAG methods**<br/>
- 💬 My portfolio link [here](https://incomparable-lollipop-dcc712.netlify.app/)<br/>
+ 💬 My portfolio link [here](https://miraj-uddin-chowdhury-portfolio.netlify.app/)<br/>
  ⚡ Fun fact: **AI can help both machines and humans evolve.**
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="mailto:mirazchowdhury03@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/miraj-uddin-chowdhury-0476b8202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/miraj-uddin-chowdhury-06558a3b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/mirazchowdhury" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
@@ -39,7 +39,7 @@
 <div align="center">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" />
-  <img src="https://python.langchain.com/img/brand/wordmark.png" alt="langchain" width="100"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </div>
 
 <hr/>
