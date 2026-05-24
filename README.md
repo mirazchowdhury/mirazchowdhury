@@ -63,6 +63,15 @@
 
 <hr/>
 
+<h2 align="center">💼 Professional Experience</h2>
+
+- 🤖 **AI Engineer Intern** – Akij iBOS (January 2026 - Present)
+  - *Working on intelligent solutions, large language models, and AI development pipelines.*
+- 📊 **Data Analyst Intern** – NexGenix (August 2025 - November 2025)
+  - *Focused on data processing, extracting actionable insights, and database management.*
+
+<hr/>
+
 <h2 align="center">📘 Education & 📜 Certifications</h2>
 
 - 🎓 **BSc in CSE** – International Islamic University Chittagong (CGPA: 3.096)
@@ -91,7 +100,7 @@
 
 <h2 align="center">🐍 Contributions Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/mirazchowdhury/mirazchowdhury/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <hr/>
