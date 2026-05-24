@@ -85,18 +85,6 @@
 
 - 🧑‍💼 **Campus Ambassador** – Farhana’s Brainstation (Mar–Dec 2024)
 
-<hr/>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirazchowdhury&show_icons=true&theme=gruvbox&hide_border=true" alt="GitHub Stats" width="430"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirazchowdhury&layout=compact&theme=gruvbox&hide_border=true" alt="Top Langs" width="350"/>
-</p>
-
-<hr/>
 
 <h2 align="center">🐍 Contributions Snake</h2>
 <p align="center">
