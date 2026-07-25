@@ -12,7 +12,7 @@
  🔭 I’m currently working on <strong>software engineering, AI development, LLM applications, and business process automation</strong><br/>
  🧠 I’m researching <strong>efficient Large Language Models for Bangla NLP</strong><br/>
  🌱 I’m exploring <strong>Knowledge Distillation, LoRA, Model Quantization, RAG, and Agentic AI</strong><br/>
- 🌐 Visit my <a href="https://miraj-uddin-chowdhury-portfolio.netlify.app/">portfolio website</a><br/>
+ 🌐 Visit my <a href="https://miraj-website.vercel.app/">portfolio website</a><br/>
  ⚡ Fun fact: <strong>Smaller language models can deliver useful results with fewer computing resources.</strong>
 </div>
 
@@ -22,7 +22,7 @@
   <a href="mailto:mirazchowdhury03@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/miraj-uddin-chowdhury-06558a3b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/mirazchowdhury" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://miraj-uddin-chowdhury-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2A5DB0?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://miraj-website.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2A5DB0?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </div>
 
 <hr/>
