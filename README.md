@@ -81,7 +81,7 @@
 
   An agentic chatbot application developed with Python, Groq Cloud API, Gradio, LLM tool calling, web search, custom domain filtering, conversational memory, and structured response handling.
 
-* 📑 **Document RAG & Automated Resume Parser**
+* 📑 [Document RAG & Automated Resume Parser](https://github.com/mirazchowdhury/cv_text_extraction)
 
   A document processing and semantic retrieval system using Docling, vector embeddings, cosine similarity, regular expressions, and NLP processing to extract structured candidate information from unstructured CV files.
 
