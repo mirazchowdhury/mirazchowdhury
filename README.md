@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="mailto:mirazchowdhury03@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/miraj-uddin-chowdhury-0476b8202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/miraj-uddin-chowdhury-06558a3b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/mirazchowdhury" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://miraj-uddin-chowdhury-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2A5DB0?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </div>
